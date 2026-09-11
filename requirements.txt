@@ -1,9 +1,9 @@
-ipykernel
-numpy
-pandas
-matplotlib
-seaborn
-flask
-memory_profiler
-streamlit
-scikit-learn
+ipykernel  ## Jupyter Notebook kernel to run Jupyter files
+numpy      ## Numerical computing and array operations
+pandas     ## Data manipulation and analysis
+matplotlib ## Data visualization and plotting
+seaborn    ## Statistical data visualization
+flask      ## Web development framework
+memory_profiler ## Monitor and analyze memory usage
+streamlit  ## Build interactive data and ML web applications
+scikit-learn ## Machine learning algorithms and tools
